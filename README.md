@@ -1,9 +1,5 @@
 <h1 align="center">hi 👋, i'm Jay Vardhan Yadav</h1>
-<h3 align="center">android developer | kotlin & jetpack compose enthusiast</h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ABFBC&height=200&section=header&text=welcome%20to%20my%20github!&fontSize=40&fontAlign=50&fontColor=ffffff" alt="header"/>
-</p>
+<h2 align="center">android developer | kotlin & jetpack compose enthusiast</h2>
 
 ---
 
@@ -23,7 +19,7 @@
 ### 📫 connect with me
 
 <p align="left">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:coderjay7.email@example.com"><img src="https://img.shields.io/badge/email-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
