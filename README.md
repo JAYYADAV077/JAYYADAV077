@@ -1,31 +1,13 @@
-<h1 align="center">Hi 👋, I'm JAY VARDHAN YADAV</h1>
-<h3 align="center">A passionate Android Developer | Kotlin & Jetpack Compose Enthusiast</h3>
+<h1 align="center">hi 👋, i'm Jay Vardhan Yadav</h1>
+<h3 align="center">android developer | kotlin & jetpack compose enthusiast</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ABFBC&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlign=50&fontColor=ffffff" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ABFBC&height=200&section=header&text=welcome%20to%20my%20github!&fontSize=40&fontAlign=50&fontColor=ffffff" alt="header"/>
 </p>
 
 ---
 
-🌱 **Currently Learning**  
-- Kotlin Coroutines & Flow  
-- Jetpack Compose Advanced UI  
-- MVVM Architecture  
-- Clean Architecture & Dependency Injection
-
-🚀 **Projects I'm Working On**
-- 📱 A Notes Filter App using Jetpack Compose  
-- 📋 A Task Manager with Room & LiveData  
-- 🎯 Personal Productivity Tools (Focus Timer, Habit Tracker)
-
-💡 **What I Love**  
-- Building clean and modern UIs  
-- Writing reusable and modular code  
-- Solving real-world problems with Android apps  
-
----
-
-### 🛠️ Languages & Tools
+### 🛠️ languages & tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -38,25 +20,13 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=react&hide_border=true"/>
-</p>
-
----
-
-### 📫 Connect With Me
+### 📫 connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center">💻 Always open to collaboration and learning new things!</p>
+<p align="center">✨ building android apps. learning. improving. collaborating.</p>
