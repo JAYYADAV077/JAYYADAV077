@@ -20,7 +20,7 @@
 
 <p align="left">
   <a href="mailto:coderjay7.email@example.com"><img src="https://img.shields.io/badge/email-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href=""><img src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
